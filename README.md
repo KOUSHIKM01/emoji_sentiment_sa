@@ -382,15 +382,20 @@ If you encounter any issues or have questions:
 
 ## 👤 About the Author
 
-**Manjeet Singh** — Software Engineer | Learning Developer (Bengaluru)
+**KOUSHIK M** — Software Engineer | Learning Developer (Bengaluru)
 
-- **Email**: iiammanjeet@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/manjeet2005/
+- **Email**: koushikbharadwaj0111@gmail.com
 
 ### Summary
-Passionate software engineer specializing in AI and cloud technologies, turning ideas into impactful software. Experienced in full‑stack development and team leadership, with active mentorship and open‑source contributions. Committed to continuous learning and practical application of cutting‑edge tech.
+"💻 Python | C | Java basics 🌱 Learning & building"
 
+"🚀 Beginner dev | Python • C • Java | Exploring code"
 
+"🔧 Coding with Python, C & Java basics | Always learning 📘"
+
+"🌱 Aspiring programmer | Python/C/Java | Growing daily"
+
+"💡 Just coding & learning | Python | C | Java"
 
 ---
 
